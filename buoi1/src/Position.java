@@ -1,4 +1,4 @@
 public class Position {
     int id;
-  PositionName name;
+    PositionName name;
 }
